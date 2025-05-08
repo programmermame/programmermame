@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">I am currently a graduating student in the ALX Software Engineering Program and pursuing a Bachelor's Degree in Computer Science.</h3>
+<h3 align="center">I am a graduate of the ALX Software Engineering Program and hold a Bachelor's Degree in Computer Science.</h3>
 <h3 align="center">A dedicated MERN stack developer with a strong passion for building dynamic and scalable web applications using MongoDB, Express.js, React, and Node.js.</h3>
 
 - 📫 How to reach me **mameatpickout@gmail.com**
