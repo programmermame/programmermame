@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">I am a graduate of the ALX Software Engineering Program and hold a Bachelor's Degree in Computer Science.</h3>
-<h3 align="center">A dedicated MERN stack developer with a strong passion for building dynamic and scalable web applications using MongoDB, Express.js, React, and Node.js.</h3>
+<h3 align="center">Full-stack developer specializing in the MERN stack, with practical experience building dynamic web applications. Comfortable learning new tools, collaborating with teams, and delivering solutions from start to finish that solve real problems.</h3>
+<h3 align="center">Trained in software engineering through the ALX program, with a degree in Computer Science.</h3>
 
 - 📫 How to reach me **mameatpickout@gmail.com**
 
